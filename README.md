@@ -14,3 +14,7 @@ https://blog.csdn.net/weixin_43673589/article/details/109045320
 
 GitHub desktop使用教程
 https://www.cnblogs.com/opsprobe/p/9893325.html
+
+11/5
+今天知道了N01的
+明天去把N02的规律摸透
